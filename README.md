@@ -76,4 +76,4 @@ By connecting this database pipeline directly to Tableau, corporate logistics ma
 
 ### 🖼️ Operational Dashboard Preview
 
-![Inventory Optimization Dashboard](https://github.com/user-attachments/assets/c46b4c22-6f77-4159-a49e-56f387f5f06e)
+<img src="https://github.com/user-attachments/assets/c46b4c22-6f77-4159-a49e-56f387f5f06e" width="750" alt="Operational Dashboard Preview" />
