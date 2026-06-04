@@ -76,4 +76,3 @@ By connecting this database pipeline directly to Tableau, corporate logistics ma
 3. **Data Democratization:** Translated thousands of raw row-and-column order logs into a crisp, color-coded dashboard built for non-technical retail executives.
 
 ### 🖼️ Operational Dashboard Preview
-![Inventory Optimization Dashboard](https://github.com/user-attachments/assets/c46b4c22-6f77-4159-a49e-56f387f5f06e)
